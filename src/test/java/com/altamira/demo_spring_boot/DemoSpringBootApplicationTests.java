@@ -17,6 +17,7 @@ public class DemoSpringBootApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.print("Hello World, add new message");
 	}
 
 }
